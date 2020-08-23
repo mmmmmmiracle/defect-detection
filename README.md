@@ -34,13 +34,11 @@ sh run.sh
 
 ![demo prediction](./pics/demo.png)
 
-### TO DO
+### 3. ensemble
 
-<u>*SeNet backbone*</u>
+1. 对于不同的backbone(b0 - b8)训练出的模型进行预测，取平均值；
 
-<u>*TTA (Flip, Multiscale)*</u>
-
-*<u>Deeplabv3*</u>
+2. TTA  (水平翻转，垂直翻转)
 
 
 
